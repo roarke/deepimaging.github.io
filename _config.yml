@@ -20,7 +20,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  deepimaging
 header_pages:
   - lectures.md
-  - assignments.md
+  - homework.md
   - projectinfo.md
   - pastproj.md
   - research.md
