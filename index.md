@@ -5,7 +5,9 @@
 layout: home
 title: Introduction
 ---
-Welcome to Machine Learning and Imaging, BME 590! This class is an overview of machine learning and imaging science, with a focus on the intersection of the two fields. This class is for you if 1) you would with imaging systems (cameras, microscopes, MRI/CT, ultrasound, etc.) and you would like to learn more about machine learning, 2) if you are familiar with machine learning and would like to know more about how your data is gathered, 3) if you work with both imaging systems and machine learning and would like to hear a new perspective on the topic, or 4) if you work with neither imaging systems nor machine learning but have a strong mathematical and signal processing background and are motivated to learn about both. Detailed syllabus is available [here](./data/syllabus.pdf).
+Welcome to Machine Learning and Imaging, BME 590! This class is an overview of machine learning and imaging science, with a focus on the intersection of the two fields. This class is for you if 1) you would with imaging systems (cameras, microscopes, MRI/CT, ultrasound, etc.) and you would like to learn more about machine learning, 2) if you are familiar with machine learning and would like to know more about how your data is gathered, 3) if you work with both imaging systems and machine learning and would like to hear a new perspective on the topic, or 4) if you work with neither imaging systems nor machine learning but have a strong mathematical and signal processing background and are motivated to learn about both.
+
+Detailed syllabus is available [here](./data/syllabus.pdf).
 
 ### Learning Goals
 By the end of this course, my aim is for you to be comfortable with the following:
