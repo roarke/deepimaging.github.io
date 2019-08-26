@@ -15,12 +15,12 @@ python3 -m pip install jupyter
 3. Login to [Google Colab](https://colab.research.google.com), start a new python3 notebook
 
 4. Make sure that the following commands run without error and return `'1.14.0'`
-`import numpy as np
+``import numpy as np
 import tensorflow as tf
 import sklearn as skl
 import matplotlib.pyplot as plt
 import scipy as sp
-tf.__version__`
+tf.__version__```
 
 
 5. Take this survey: [Homework 0: Survey](https://goo.gl/forms/hV8rUMVzjIxEX3S73)
