@@ -12,7 +12,7 @@ python3 -m pip install jupyter
  - MacOS users, you can find your terminal by typing `terminal` in your search bar.
  - Windows users, you should be able to use powershell. For long term happiness though, install the bash shell: [linux - How to enable Bash in Windows 10 developer preview? - Stack Overflow](https://stackoverflow.com/questions/36352627/how-to-enable-bash-in-windows-10-developer-preview)
 
-Alternatively use [Anaconda](https://docs.conda.io/en/latest/miniconda.html) for Python 3.7 and then run `conda install jupyter`
+    Alternatively use [Anaconda](https://docs.conda.io/en/latest/miniconda.html) for Python 3.7 and then run `conda install jupyter`
 
 
 2. If for some inexplicable reason you don't have a Gmail account, make one.
