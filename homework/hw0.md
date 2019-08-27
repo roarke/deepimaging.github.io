@@ -39,3 +39,5 @@ tf.__version__
 ### Feel free to try on your own before the TA session if you are comfortable!
  - Introduce yourself by writing in the `homework_0.ipynb` file. [Download here][1].
  - Submit your homework [here](https://forms.gle/rW4mj4QWGRcP6pik6).
+
+[1]: {{ site.url }}/data/hw0.ipynb
