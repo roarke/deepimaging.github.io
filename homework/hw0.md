@@ -30,7 +30,7 @@ tf.__version__
 ```
 
 
-5. Take this survey: [Homework 0: Survey](https://forms.gle/b3AzizwrnXQnoadg8)
+5. If you haven't already, please take this survey: [Homework 0: Survey](https://forms.gle/b3AzizwrnXQnoadg8)
 
 ### If you have any issues, we will find time to debug during our zeroth TA session Monday or Wednesday (depending on your section)
 ---------------------
@@ -38,4 +38,4 @@ tf.__version__
 ## After the zeroth TA session, you should do the following:
 ### Feel free to try on your own before the TA session if you are comfortable!
  - Introduce yourself by writing in the `homework_0.ipynb` file
- - Submit your homework here: https://forms.gle/rW4mj4QWGRcP6pik6
+ - Submit your homework [here](https://forms.gle/rW4mj4QWGRcP6pik6).
