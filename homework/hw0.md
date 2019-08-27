@@ -25,7 +25,7 @@ tf.__version__
 ```
 
 
-5. Take this survey: [Homework 0: Survey](https://goo.gl/forms/hV8rUMVzjIxEX3S73)
+5. Take this survey: [Homework 0: Survey](https://forms.gle/b3AzizwrnXQnoadg8)
 
 ### If you have any issues, we will find time to debug during our zeroth TA session Monday or Wednesday (depending on your section)
 ---------------------
@@ -34,4 +34,4 @@ tf.__version__
 ### Feel free to try on your own before the TA session if you are comfortable!
  - Introduce yourself by writing in the `homework_0.ipynb` file
  - Spin up a small google cloud platform instance with a publicly accessible IP address.
- - Submit your homework here: https://goo.gl/forms/NS5tp08lcq6OjNst1
+ - Submit your homework here: https://forms.gle/rW4mj4QWGRcP6pik6
