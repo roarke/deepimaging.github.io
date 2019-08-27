@@ -1,3 +1,4 @@
+## Homework 0
 1. Installing Python:
 Download the latest version of python3: `https://www.python.org/downloads/`
 Install juypter by running these commands in your shell:
