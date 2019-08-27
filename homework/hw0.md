@@ -35,4 +35,4 @@ tf.__version__
 ### Feel free to try on your own before the TA session if you are comfortable!
  - Introduce yourself by writing in the `homework_0.ipynb` file
  - Spin up a small google cloud platform instance with a publicly accessible IP address.
- - Submit your homework here: https://forms.gle/rW4mj4QWGRcP6pik6
+ - Submit your homework here: (https://forms.gle/rW4mj4QWGRcP6pik6)
