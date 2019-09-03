@@ -38,6 +38,6 @@ tf.__version__
 ## After the zeroth TA session, you should do the following:
 ### Feel free to try on your own before the TA session if you are comfortable!
  - Introduce yourself by writing in the `homework_0.ipynb` file. [Download here][1].
- - Submit your homework [here](https://forms.gle/1K6jGah2YUR6imLM9).
+ - Submit your homework [here](https://forms.gle/1K6jGah2YUR6imLM9) by *Friday, September 6 at 8pm*.
 
 [1]: {{ site.url }}/data/hw0.ipynb
