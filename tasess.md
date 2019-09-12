@@ -3,6 +3,6 @@ layout: page
 title: TA Sessions
 permalink: /tasess/
 ---
-| TA Session #                       | Date         |  Topics             
+| TA Session #                       | Week of         |  Resources             
 |:---------------------------:|:------------:|:-------------------:
-|1|27 August 2019|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
+|1-2|9, 16 September 2019|[Notebook (ipynb)](/tasess/HW1_TA_session_completed.ipynb)
