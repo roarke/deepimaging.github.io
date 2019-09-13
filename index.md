@@ -8,7 +8,7 @@ title: Machine Learning and Imaging - Fall 2019
 ---
 
 <p align="center">
-    <img width="460" height="300" src="assets/logo.png">
+    <img width="160" height="160" src="assets/logo.png">
 </p>
 
 Welcome to Duke University's Machine Learning and Imaging course! This class aims to teach you how they to improve the performance of you deep learning algorithms, by jointly optimizing the hardware that acquired your data. It primiarly focuses on imaging data - from cameras, microscopes, MRI, CT, and ultrasound systems, for example. It begins with overview of machine learning and imaging science, and then focuses on the intersection of the two fields. This class is for you if 1) you would with imaging systems and you would like to learn more about machine learning, 2) if you are familiar with machine learning and would like to know more about how your data is gathered, 3) if you work with both imaging systems and machine learning and would like to hear a new perspective on the topic, or 4) if you work with neither imaging systems nor machine learning but have a strong mathematical background and are motivated to learn about both.
