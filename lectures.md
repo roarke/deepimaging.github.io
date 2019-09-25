@@ -12,4 +12,6 @@ permalink: /lectures/
 |[4](https://www.youtube.com/)|5 September 2019|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
 |[5](https://www.youtube.com/)|10 September 2019|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 |[6](https://www.youtube.com/)|12 September 2019|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
+|[7](https://www.youtube.com/)|17-19 September 2019|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
+|[8](https://www.youtube.com/)|17-19 September 2019|[From Simple to "Deep" Networks (PDF)](/lectures/lecture_7_ML-principles.pdf)
 
