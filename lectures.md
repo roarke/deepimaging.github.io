@@ -13,5 +13,6 @@ permalink: /lectures/
 |[5](https://www.youtube.com/)|10 September 2019|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 |[6](https://www.youtube.com/)|12 September 2019|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[7](https://www.youtube.com/)|17-19 September 2019|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
-|[8](https://www.youtube.com/)|17-19 September 2019|[From Simple to "Deep" Networks (PDF)](/lectures/lecture_7_ML-principles.pdf)
+|[8](https://www.youtube.com/)|24 September 2019|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture-8_ML_Theory.pdf)
+|[9](https://www.youtube.com/)|26 September 2019|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNNs.pdf)
 
