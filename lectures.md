@@ -15,5 +15,5 @@ permalink: /lectures/
 |[7](https://www.youtube.com/)|17-19 September 2019|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
 |[8](https://www.youtube.com/)|24 September 2019|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture-8_ML_Theory%20.pdf)
 |[9](https://www.youtube.com/)|26 Sept, 1 Oct 2019|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNNs.pdf)
-|[10](https://www.youtube.com/)|3 Oct 2019|[Backpropagation in Deep Networks (PDF)](/lectures/lecture_10_backpropagation.pdf)
+|[10](https://www.youtube.com/)|3 Oct 2019|[Backpropagation in Deep Networks (PDF)](/lectures/lecture_10_Backpropagation.pdf)
 
