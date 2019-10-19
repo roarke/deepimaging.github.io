@@ -17,5 +17,6 @@ permalink: /lectures/
 |[9](https://www.youtube.com/)|26 Sept, 1 Oct 2019|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
 |[10](https://www.youtube.com/)|3 Oct 2019|[Backpropagation in Deep Networks (PDF)](/lectures/lecture_10_Backpropagation.pdf)
 |[11](https://www.youtube.com/)|3 Oct 2019|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
-|[12](https://www.youtube.com/)|3 Oct 2019|[CNN implementation and visualization (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
+|[12](https://www.youtube.com/)|8-10 Oct 2019|[CNN implementation and visualization (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
+|[13](https://www.youtube.com/)|17 Oct 2019|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 
