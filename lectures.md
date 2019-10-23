@@ -20,3 +20,7 @@ permalink: /lectures/
 |[12](https://www.youtube.com/)|10 Oct 2019|[CNN implementation and visualization (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
 |[13](https://www.youtube.com/)|17 Oct 2019|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
 
+### Lecture Resources
+1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
+2. [Jupyter Notebook: High level intro to Neural Networks in Tensorflow](/data/high_level_tf_intro.ipynb)
+3. [Jupyter Notebook: A simple Autoencoder in Tensorflow/Keras](/data/Simple_Autoencoder.ipynb)
