@@ -14,3 +14,8 @@ Some datasets that might be helpful:
 6. [Biological image synthesis](https://github.com/aosokin/biogans)
 7. [IDR Open Microscopy datasets](https://idr.openmicroscopy.org/)
 8. [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview)
+9. [Fourier MNIST and malaria datasets](http://deepimaging.io/recurrent-illuminated-attention/)
+10. [Scene Flow datasets](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
+11. [NYU depth dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+12. [Scattering media dataset from Rice](http://dsp.rice.edu/research/transmissionmatrices/)
+13. [Flatcam Face dataset](http://computationalimaging.rice.edu/databases/flatcam-face-dataset/)
