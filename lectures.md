@@ -22,6 +22,7 @@ permalink: /lectures/
 |[14a](https://www.youtube.com/)|22 Oct 2019|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
 |[14b](https://www.youtube.com/)|24 Oct 2019|[CNNs as Autoencoders (PDF)](/lectures/Lecture_14b_Segmentation_and_autoencoders.pdf)
 |[15](https://www.youtube.com/)|24 Oct 2019|[Introduction to Physical Layers in Machine Learning (PDF)](/lectures/lecture_15_intro_physical_CNNs.pdf)
+|[16](https://www.youtube.com/)|29 Oct 2019|[Examples of Physical Layers in CNNs (PDF)](/lectures/lecture_16_examples_physical_layers_CNN.pdf)
 
 ### Lecture Resources
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
