@@ -22,7 +22,7 @@ Here are some important dates:
 - Final report due and presentation: December 13, 7 pm – 10 pm
 
 Some datasets that might be helpful:
-0. [Grand Challenge datasets - lots of datasets to choose from here!](https://grand-challenge.org/challenges/) 
+0. [Grand Challenge datasets - lots of datasets to choose from here!](https://grand-challenge.org/challenges/)
 1. [Label free prediction datasets from Allen Institute](https://downloads.allencell.org/publication-data/label-free-prediction/index.html)
 2. [HAM10000 pigmented skin lesion dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 3. [In-silico labeling dataset](https://github.com/google/in-silico-labeling/blob/master/data.md)
