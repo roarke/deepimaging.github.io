@@ -3,9 +3,26 @@ layout: page
 title: Project Info
 permalink: /proj-info/
 ---
-Info for the final project will be available soon.
+Here is some information about the final project:
+1. You can work alone or in a group (up to 4 people), required effort will scale with # of people
+2. Select a “base” dataset (see examples below)
+3. You'll need to simulate parameters of a physical (imaging) system with base dataset
+4. You'll then need to train a deep neural net, with simulated dataset, and the physical parameters in mind
+5. Please see slides at the beginning of Lecture 14 for some example topics and details about the project proposal
+
+Your final report and materials will include the following:
+1. The project’s source code
+2. A short research-style paper (3 pages minimum, 6 pages maximum) that includes an introduction, results, a discussion section, references and at least 2 figures
+3. A completed web template containing the main results from the research paper
+4. An 8-minute presentation to deliver to the class with your group
+
+Here are some important dates:
+- Project proposal due date: Thursday November 7, 2019
+- Revised project proposal due date: Tuesday November 12, 2019
+- Final report due and presentation: December 13, 7 pm – 10 pm
 
 Some datasets that might be helpful:
+0. [Grand Challenge datasets - lots to choose from here] - https://grand-challenge.org/challenges/
 1. [Label free prediction datasets from Allen Institute](https://downloads.allencell.org/publication-data/label-free-prediction/index.html)
 2. [HAM10000 pigmented skin lesion dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 3. [In-silico labeling dataset](https://github.com/google/in-silico-labeling/blob/master/data.md)
@@ -19,3 +36,4 @@ Some datasets that might be helpful:
 11. [NYU depth dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 12. [Scattering media dataset from Rice](http://dsp.rice.edu/research/transmissionmatrices/)
 13. [Flatcam Face dataset](http://computationalimaging.rice.edu/databases/flatcam-face-dataset/)
+
