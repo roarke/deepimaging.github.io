@@ -22,7 +22,7 @@ Here are some important dates:
 - Final report due and presentation: December 13, 7 pm – 10 pm
 
 Some datasets that might be helpful:
-0. [Grand Challenge datasets - lots to choose from here] - https://grand-challenge.org/challenges/
+0. [Grand Challenge datasets - lots of datasets to choose from here!](https://grand-challenge.org/challenges/) 
 1. [Label free prediction datasets from Allen Institute](https://downloads.allencell.org/publication-data/label-free-prediction/index.html)
 2. [HAM10000 pigmented skin lesion dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 3. [In-silico labeling dataset](https://github.com/google/in-silico-labeling/blob/master/data.md)
@@ -36,4 +36,14 @@ Some datasets that might be helpful:
 11. [NYU depth dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 12. [Scattering media dataset from Rice](http://dsp.rice.edu/research/transmissionmatrices/)
 13. [Flatcam Face dataset](http://computationalimaging.rice.edu/databases/flatcam-face-dataset/)
+
+
+Here are a few useful datasets that were used in previous classes:
+1. [Malaria-infected blood cells under variable-angle illumination](http://deepimaging.io/recurrent-illuminated-attention/)
+2. [Annotated microscope images of malaria-infected blood, tuberculosis in sputum, and other parasites](http://air.ug/microscopy/)
+3. [Broad Institute Annotated Cell Image Datset](https://data.broadinstitute.org/bbbc/BBBC006/)
+4. [Microwave Detection of Hand Gestures from the Smith Lab at Duke](https://www.dropbox.com/sh/0opcl6skajz1v9s/AADdmrY0Ff676ZPFmcLEP3dca?dl=0)
+5. [High Dynamic Range Color Image Dataset](https://www2.cs.sfu.ca/~colour/data/funt_hdr/)
+6. [Optical Coherence Tomography Annotated Datasets from Farsiu Lab at Duke](http://people.duke.edu/~sf59/software.html)
+7. [Chest X-ray images (pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
