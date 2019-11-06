@@ -36,6 +36,7 @@ Some datasets that might be helpful:
 11. [NYU depth dataset](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
 12. [Scattering media dataset from Rice](http://dsp.rice.edu/research/transmissionmatrices/)
 13. [Flatcam Face dataset](http://computationalimaging.rice.edu/databases/flatcam-face-dataset/)
+14. [DeepLesion CT dataset](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
 
 
 Here are a few useful datasets that were used in previous classes:
