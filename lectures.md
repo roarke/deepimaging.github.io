@@ -25,6 +25,7 @@ permalink: /lectures/
 |[16](https://www.youtube.com/)|29 Oct 2019|[Examples of Physical Layers in CNNs (PDF)](/lectures/lecture_16_examples_physical_layers_CNN.pdf)
 |[17](https://www.youtube.com/)|31 Oct 2019|[Introduction to Fourier Optics (PDF)](/lectures/lecture_17_intro_Fourier_optics.pdf)
 |[18](https://www.youtube.com/)|5 Nov 2019|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_18_coherent_physical_layers.pdf)
+|[19](https://www.youtube.com/)|7 Nov 2019|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_19_physical_layer_guidelines.pdf)
 
 ### Lecture Resources
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
