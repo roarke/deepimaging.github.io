@@ -27,6 +27,7 @@ permalink: /lectures/
 |[18](https://www.youtube.com/)|5 Nov 2019|[Physical Layers with Coherent Fields (PDF)](/lectures/lecture_18_coherent_physical_layers.pdf)
 |[19](https://www.youtube.com/)|7 Nov 2019|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_19_physical_layer_guidelines.pdf)
 |[20](https://www.youtube.com/)|12 Nov 2019|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_20_PhysicalCNN_examples.pdf)
+|[21](https://www.youtube.com/)|14 Nov 2019|[Recurrent Neural Networks (PDF)](/lectures/lecture_21_RNNs.pdf)
 
 ### Lecture Resources
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
