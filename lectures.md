@@ -28,6 +28,8 @@ permalink: /lectures/
 |[19](https://www.youtube.com/)|7 Nov 2019|[Physical Layer Guidelines and Implementations (PDF)](/lectures/lecture_19_physical_layer_guidelines.pdf)
 |[20](https://www.youtube.com/)|12 Nov 2019|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_20_PhysicalCNN_examples.pdf)
 |[21](https://www.youtube.com/)|14 Nov 2019|[Recurrent Neural Networks (PDF)](/lectures/lecture_21_RNNs.pdf)
+|[22](https://www.youtube.com/)|19 Nov 2019|[Reinforcement Learning (PDF)](/lectures/lecture_22_reinforcement_learning.pdf)
+
 
 ### Lecture Resources
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
