@@ -29,6 +29,8 @@ permalink: /lectures/
 |[20](https://www.youtube.com/)|12 Nov 2019|[Published Physical CNN Examples and Ethics (PDF)](/lectures/lecture_20_PhysicalCNN_examples.pdf)
 |[21](https://www.youtube.com/)|14 Nov 2019|[Recurrent Neural Networks (PDF)](/lectures/lecture_21_RNNs.pdf)
 |[22](https://www.youtube.com/)|19 Nov 2019|[Reinforcement Learning (PDF)](/lectures/lecture_22_reinforcement_learning.pdf)
+|[23](https://www.youtube.com/)|21 Nov 2019|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_23_future_directions.pdf)
+
 
 
 ### Lecture Resources
