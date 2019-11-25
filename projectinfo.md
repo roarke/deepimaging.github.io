@@ -11,13 +11,13 @@ Here is some information about the final project:
 5. Please see slides from class for a number of examples and discussions 
 
 Here is a link to the final project instructions: 
-[Final project instructions](https://github.com/deepimaging/deepimaging.github.io/tree/master/data/BME590_Project_Instructions.pdf)
+[Final project instructions](/data/BME590_Project_Instructions.pdf)
 
 Here is a link to a template for the final project research-style paper:
-[Template for research-style paper](https://github.com/deepimaging/deepimaging.github.io/tree/master/data/paper_template.zip)
+[Template for research-style paper](/data/paper_template.zip)
 
 Here is a link to a template for the final project short webpage:
-[Template for final project webpage](https://github.com/deepimaging/deepimaging.github.io/tree/master/data/website_template.zip)
+[Template for final project webpage](/data/website_template.zip)
 
 In short, your final report and materials will include the following:
 1. A 7-minute presentation with slides that you will give to the class during the final period  
