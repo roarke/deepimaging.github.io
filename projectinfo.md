@@ -8,18 +8,30 @@ Here is some information about the final project:
 2. Select a “base” dataset (see examples below)
 3. You'll need to simulate parameters of a physical (imaging) system with base dataset
 4. You'll then need to train a deep neural net, with simulated dataset, and the physical parameters in mind
-5. Please see slides at the beginning of Lecture 14 for some example topics and details about the project proposal
+5. Please see slides from class for a number of examples and discussions 
 
-Your final report and materials will include the following:
-1. The project’s source code
-2. A short research-style paper (3 pages minimum, 6 pages maximum) that includes an introduction, results, a discussion section, references and at least 2 figures
-3. A completed web template containing the main results from the research paper
-4. An 8-minute presentation to deliver to the class with your group
+Here is a link to the final project instructions: 
+[Final project instructions](https://github.com/deepimaging/deepimaging.github.io/tree/master/data/BME590_Project_Instructions.pdf)
+
+Here is a link to a template for the final project research-style paper:
+[Template for research-style paper](https://github.com/deepimaging/deepimaging.github.io/tree/master/data/paper_template.zip)
+
+Here is a link to a template for the final project short webpage:
+[Template for final project webpage](https://github.com/deepimaging/deepimaging.github.io/tree/master/data/website_template.zip)
+
+In short, your final report and materials will include the following:
+1. A 7-minute presentation with slides that you will give to the class during the final period  
+2. A short research-style paper (4 pages minimum, 6 pages maximum) that includes an abstract, introduction, related work, methods, results, a discussion, references and at least 3 figures. 
+3. The project’s source code
+4. A completed web template containing the main results from the research paper
+5. A completed permission form
+
 
 Here are some important dates:
 - Project proposal due date: Thursday November 7, 2019
 - Revised project proposal due date: Tuesday November 12, 2019
-- Final report due and presentation: December 13, 7 pm – 10 pm
+- Final report due via email: December 13 at 5pm
+- Final presentation time and location: December 13, 7 pm – 10 pm, Hudson Hall 212 (current classroom)
 
 Some datasets that might be helpful:
 0. [Grand Challenge datasets - lots of datasets to choose from here!](https://grand-challenge.org/challenges/)
