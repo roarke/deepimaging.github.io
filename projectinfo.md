@@ -19,7 +19,10 @@ Here is a link to a template for the final project research-style paper:
 Here is a link to a template for the final project short webpage:
 [Template for final project webpage](/data/website_template.zip)
 
-In short, your final report and materials will include the following:
+Here is a link to the permission form:
+[Template for final project webpage](/data/permission_form.pdf)
+
+Using the above files, you'll thus turn in the following:
 1. A 7-minute presentation with slides that you will give to the class during the final period  
 2. A short research-style paper (4 pages minimum, 6 pages maximum) that includes an abstract, introduction, related work, methods, results, a discussion, references and at least 3 figures. 
 3. The project’s source code
