@@ -20,7 +20,7 @@ Here is a link to a template for the final project short webpage:
 [Template for final project webpage](/data/website_template.zip)
 
 Here is a link to the permission form:
-[Template for final project webpage](/data/permission_form.pdf)
+[Permission form](/data/permission_form.pdf)
 
 Using the above files, you'll thus turn in the following:
 1. A 7-minute presentation with slides that you will give to the class during the final period  
