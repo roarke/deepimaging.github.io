@@ -7,7 +7,7 @@ permalink: /lectures/
 |:---------------------------:|:------------:|:-------------------:
 |[0](https://www.youtube.com/)|27 August 2019|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
 |[1](https://www.youtube.com/)|29 August 2019|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
-{% comment %}
+<!--
 |[2](https://www.youtube.com/)|29 September 2019|[Continuous Mathematics Review (PDF)](/lectures/lecture_2_math_continuous.pdf)#|[3](https://www.youtube.com/)
 |3 September 2019|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
 |[4](https://www.youtube.com/)|5 September 2019|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
@@ -32,11 +32,12 @@ permalink: /lectures/
 |[22](https://www.youtube.com/)|19 Nov 2019|[Reinforcement Learning (PDF)](/lectures/lecture_22_reinforcement_learning.pdf)
 |[23](https://www.youtube.com/)|21 Nov 2019|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_23_future_directions.pdf)
 |[24](https://www.youtube.com/)|26 Nov 2019|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_24_deep_imaging_review.pdf)
-{% endcomment %}
-
+-->
+<!--
 ### Lecture Resources
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
 2. [Jupyter Notebook: High level intro to Neural Networks in Tensorflow](/data/high_level_tf_intro.ipynb)
 3. [Jupyter Notebook: A simple Autoencoder in Tensorflow/Keras](/data/Simple_Autoencoder.ipynb)
 4. [Jupyter Notebook: Weighted image sum example](/data/weighted_image_sum_example.ipynb)
 5. [Jupyter Notebook: Physical layers exmaple](/data/physical_layers_example.ipynb)
+-->
