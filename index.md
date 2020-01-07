@@ -4,7 +4,7 @@
 
 layout: home
 
-title: Machine Learning and Imaging - Fall 2019
+title: Machine Learning and Imaging - Spring 2020
 ---
 
 <p align="center">
@@ -24,7 +24,7 @@ By the end of this course, my aim is for you to be comfortable with the followin
 5. Be able to write your own machine learning code for image data analysis and/or system design
 
 ### Course Structure
-This class is geared towards Masters and PhD students who want to learn more details about a current topic of active research. It will assume a certain level of background knowledge in math and programming (Linear algegra, signal processing, and Matlab/Python). It will be relatively fast-paced and will skip over some details to reach its primary goal, which is to help each student identify and work on a suitable final project. The final project should be something that you are excited about and could certainly be related to your current research. If you are not currently pursuing a related research topic or any research topic, then that is ok – we can work together to find a suitable final project topic. A very good outcome of this course will be if each student can write machine learning code that they fully understand, that tests something of interest to them (i.e., not just classifying images of cats and dogs), and that includes some hypothesis-driven component to it.
+This class is geared towards Masters and PhD students who want to learn more details about a current topic of active research. It will assume a certain level of background knowledge in math and programming (Linear algebra, signal processing, and Matlab/Python). It will be relatively fast-paced and will skip over some details to reach its primary goal, which is to help each student identify and work on a suitable final project. The final project should be something that you are excited about and could certainly be related to your current research. If you are not currently pursuing a related research topic or any research topic, then that is ok – we can work together to find a suitable final project topic. A very good outcome of this course will be if each student can write machine learning code that they fully understand, that tests something of interest to them (i.e., not just classifying images of cats and dogs), and that includes some hypothesis-driven component to it.
 
 ### Additional Details
-This class is taught by Dr. Roarke Horstmeyer, who is an Assistant Professor of Biomedical Engineering and Electrical Engineering at Duke University and leads the [Computational Imaging Lab](https://horstmeyer.pratt.duke.edu/). The current TA's are Kevin Zhou and Amey Chaware. Ongoing research related to the use of machine learning to design new types of imaging hardware can be found at [deepimaging.io](http://www.deepimaging.io) - Please take a look and we hope you enjoy this class!
+This class is taught by Dr. Roarke Horstmeyer, who is an Assistant Professor of Biomedical Engineering and Electrical Engineering at Duke University and leads the [Computational Imaging Lab](https://horstmeyer.pratt.duke.edu/). The current TA's this semester are Jun Jiang and Amey Chaware. Ongoing research related to the use of machine learning to design new types of imaging hardware can be found at [deepimaging.io](http://www.deepimaging.io) - Please take a look and we hope you enjoy this class!
