@@ -7,6 +7,7 @@ permalink: /lectures/
 |:---------------------------:|:------------:|:-------------------:
 |[0](https://www.youtube.com/)|27 August 2019|[Introduction (PDF)](/lectures/lecture_0_introduction.pdf)
 |[1](https://www.youtube.com/)|29 August 2019|[Overview of Machine Learning and Imaging (PDF)](/lectures/lecture_1_ML-Imaging_Summary_final.pdf)
+|||
 <!--
 |[2](https://www.youtube.com/)|29 September 2019|[Continuous Mathematics Review (PDF)](/lectures/lecture_2_math_continuous.pdf)#|[3](https://www.youtube.com/)
 |3 September 2019|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
@@ -33,6 +34,7 @@ permalink: /lectures/
 |[23](https://www.youtube.com/)|21 Nov 2019|[Looking ahead – machine learning and imaging in 10 years (PDF)](/lectures/lecture_23_future_directions.pdf)
 |[24](https://www.youtube.com/)|26 Nov 2019|[Machine Learning + Imaging Review (PDF)](/lectures/lecture_24_deep_imaging_review.pdf)
 -->
+
 <!--
 ### Lecture Resources
 1. [Jupyter Notebook: Tensorflow basic optimization example](/data/basic_tensorflow_eager_example.ipynb)
