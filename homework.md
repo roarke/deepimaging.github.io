@@ -5,6 +5,8 @@ permalink: /assigns/
 # modify and add this line: [Assignment xx](link to it): [Submission Link](link)
 ---
 [Pre-class survey](https://forms.gle/b3AzizwrnXQnoadg8)
+
+<!--
 1. [Homework 0](/homework/hw0.md)
 2. [Homework 1](/homework/hw1.md)
 3. [Homework 2](/homework/hw2.md)
@@ -12,3 +14,4 @@ permalink: /assigns/
 5. [Homework 4](/homework/hw4.md) 
 6. [Project Proposals](/homework/projectproposal.md)
 7. [Homework 5](/homework/hw5.md)
+-->
