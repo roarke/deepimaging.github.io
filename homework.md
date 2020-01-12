@@ -4,7 +4,7 @@ title: Homework
 permalink: /assigns/
 # modify and add this line: [Assignment xx](link to it): [Submission Link](link)
 ---
-[Pre-class survey](https://forms.gle/b3AzizwrnXQnoadg8)
+[Pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLScO4dfa7wei1x2vP9cMQcUm6EpaHUsm4f3V-p-GzzrQgEBzhg/viewform?usp=sf_link)
 
 <!--
 1. [Homework 0](/homework/hw0.md)
