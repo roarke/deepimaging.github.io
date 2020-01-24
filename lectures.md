@@ -10,11 +10,9 @@ permalink: /lectures/
 |[2](https://www.youtube.com/)|16 January 2020|[Continuous Mathematics Review (PDF)](/lectures/lecture_2_math_continuous.pdf)
 |[3](https://www.youtube.com/)|16 January 2020|[From Continuous to Discrete Mathematics (PDF)](/lectures/lecture_3_continuous_discrete_math.pdf)
 |[4](https://www.youtube.com/)|21 January 2020|[Discrete Functions (PDF)](/lectures/lecture_4_math_discrete.pdf)
-
-
+|[5](https://www.youtube.com/)|23 January 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 
 <!--
-|[5](https://www.youtube.com/)|10 September 2019|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 |[6](https://www.youtube.com/)|12 September 2019|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[7](https://www.youtube.com/)|17-19 September 2019|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
 |[8](https://www.youtube.com/)|24 September 2019|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture-8_ML_Theory%20.pdf)
