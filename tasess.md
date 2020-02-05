@@ -9,6 +9,8 @@ TA session Python notebooks and other information will be uploaded here.
 | TA Session #                       | Week of         |  Resources             
 |:---------------------------:|:------------:|:-------------------:
 |1-2|27 January and 3 February 2020|[Notebook 1(ipynb)](/tasess/TAsess1and2.ipynb), [Notebook 2(ipynb)](/tasess/ClassesInPython.ipynb)
+
+
 <!--
 |3|23 September 2019|[Slides](/tasess/MachineLearningPipeline.pdf)
 |6|14 October 2019| [Notebook (ipynb)](/tasess/keras_intro_TA_session.ipynb)
