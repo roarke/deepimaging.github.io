@@ -13,11 +13,11 @@ permalink: /lectures/
 |[5](https://www.youtube.com/)|23 January 2020|[Introduction to Optimization (PDF)](/lectures/lecture_5_intro_optimization.pdf)
 |[6](https://www.youtube.com/)|29 January 2020|[Ingredients for Machine Learning (PDF)](/lectures/lecture_6_optimization-to-ML.pdf)
 |[7](https://www.youtube.com/)|31 January 2020|[Linear and Logistic Classification (PDF)](/lectures/lecture_7_ML-principles.pdf)
+|[8](https://www.youtube.com/)|4 February 2020|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture_8_ML_Theory.pdf)
+|[9](https://www.youtube.com/)|6,11 February 2020|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
+|[10](https://www.youtube.com/)|11,13 February 2020|[Backpropagation in Deep Networks (PDF)](/lectures/lecture_10_Backpropagation.pdf)
 
 <!--
-|[8](https://www.youtube.com/)|24 September 2019|["Deep" Networks: theoretical motvation (PDF)](/lectures/lecture-8_ML_Theory%20.pdf)
-|[9](https://www.youtube.com/)|26 Sept, 1 Oct 2019|[Convolutional Neural Networks (PDF)](/lectures/lecture_9_intro_to_CNN's.pdf)
-|[10](https://www.youtube.com/)|3 Oct 2019|[Backpropagation in Deep Networks (PDF)](/lectures/lecture_10_Backpropagation.pdf)
 |[11](https://www.youtube.com/)|8 Oct 2019|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
 |[12](https://www.youtube.com/)|10 Oct 2019|[CNN implementation and visualization (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
 |[13](https://www.youtube.com/)|17 Oct 2019|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
