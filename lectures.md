@@ -19,8 +19,8 @@ permalink: /lectures/
 |[11](https://www.youtube.com/)|18 February 2020|[Tools for your Deep Learning Toolbox (PDF)](/lectures/lecture_11_useful_DL_tools.pdf)
 |[12](https://www.youtube.com/)|20 February 2020|[CNN implementation and visualization (PDF)](/lectures/lecture_12_CNNs_practical_tips.pdf)
 |[13](https://www.youtube.com/)|25 February 2020|[CNN visualization tools and extensions (PDF)](/lectures/lecture_13_CNN-visualization-extensions.pdf)
-|[14a](https://www.youtube.com/)|22 Oct 2019|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
-|[14b](https://www.youtube.com/)|24 Oct 2019|[CNNs as Autoencoders (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
+|[14a](https://www.youtube.com/)|27 February 2020|[CNNs for object detection and segmentation(PDF)](/lectures/lecture_14a_object_detection_segmentation.pdf)
+|[14b](https://www.youtube.com/)|3 March 2020|[CNNs as Autoencoders (PDF)](/lectures/lecture_14b_segmentation_autoencoder.pdf)
 
 
 <!--
